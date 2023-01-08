@@ -1,2 +1,2 @@
-# PROJECT'random'
-'doesitwork'
+# PROJECT random
+doesitwork
