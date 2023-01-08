@@ -1,2 +1,2 @@
-# PROJECT'random
-'f'{split_message[2]}'
+# PROJECT'random'
+'doesitwork'
