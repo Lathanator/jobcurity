@@ -1,2 +1,2 @@
-# PROJECT rando
+# PROJECT cassoulet
 doesitwork
